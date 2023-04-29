@@ -1,14 +1,13 @@
 
 <p align="center">
-<a href="#sobre">Sobre</a> o
-<a href="#sobre">Tecnologias</a> o
+ o <a href=" #sobre">Sobre</a>
+o <a href="#sobre">Tecnologias</a> 
 <br><br>
-o Homepage: Compra de pizzas  <a href=000</a>
 
-(illustration Image)
+![Opera Instantâneo_2023-04-06_055530_127 0 0 1](https://user-images.githubusercontent.com/93622964/230328916-15593e15-8241-4ccf-b227-64b3c4dc5982.png)
 
   
-
+# Sobre
 <h3>O Projeto sobre site de compra de pizzas js.</h3>
 <h3>O Projeto em construção (Loading...) <h3/>
 <h3>O Exercício feito com proposta do curso 
