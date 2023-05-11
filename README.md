@@ -5,7 +5,8 @@ o <a href="#sobre">Tecnologias</a>
 <br><br>
  o Homepage:<a href=https://igoroliveiranunes.github.io/Compra-de-Pizzas/> Compra de pizzas  </a>
 
-![Opera Instantâneo_2023-04-06_055530_127 0 0 1](https://user-images.githubusercontent.com/93622964/230328916-15593e15-8241-4ccf-b227-64b3c4dc5982.png)
+![Opera Instantâneo_2023-04-06_055530_127 0 0 1](https://user-images.githubusercontent.com/93622964/230328916-15593e15-8241-4ccf-b227-64b3c4dc5982.png)</br>
+![Opera Instantâneo_2023-05-11_045849_igoroliveiranunes github io](https://github.com/IgorOliveiraNunes/Compra-de-Pizzas/assets/93622964/90b22a3d-e27a-4981-8a56-9a8239da8b13)</br>
 
   
 # Sobre
